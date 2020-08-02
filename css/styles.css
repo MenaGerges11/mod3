@@ -1,0 +1,82 @@
+body  {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+  background-color: #0BF7EB;
+}
+* {
+	box-sizing: border-box;
+}
+#Menu-title {
+	color: white;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 32px;
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	text-shadow: 1px 1px 1px #222;
+}
+section {
+	color: black;
+	text-align: center;
+	font-size: 24px ;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: inherit;
+	text-transform: inherit;
+}
+#Chicken {
+  background-color:gray; 
+  border:2px solid black;
+  width: auto;
+  height: auto;
+  margin:15px;
+  padding: 15px;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+#Beef {
+  background-color:gray; 
+  border:2px solid black;
+  width: auto;
+  height: auto;
+  margin:15px;
+  padding: 15px;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+#Suchi {
+  background-color:gray; 
+  border:2px solid black;
+  width: auto;
+  height: auto;
+  margin:15px;
+  padding: 15px;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+p{
+	color: black;
+	font-size: 20px;
+	padding: 10px;
+  display: block;
+  margin: 1em;
+  }
+
+.navbar {
+	background-color: #014E4A;
+	border-radius: 0;
+	border: 0;
+}
+button  {
+	margin-right: 50px;
+	width: 45px;
+}
+.btn-primary{
+  margin-right: 50px;
+  width: 150px;
+}
